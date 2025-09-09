@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ayesha Karim
 description: Frontend Engineer with 6 years experience in developing user interfaces for VMware SaaS platforms in React, Javascript and Typescript. Passionate about building scalable, responsive frontends and exploring AI and cloud technologies. Focused on automation and performance engineering to enhance the user experience
+include:
+  - assets/css
